@@ -1,5 +1,17 @@
 {
- "assets": {},
+ "assets": {
+  "covered_car": "22592d3c2b16533339ed1bf4e4320e25e5a76cf2",
+  "dutch_ship_large_01": "60c7a7b6a4173e1f4f1cb0873e5f57ca1b4cd99e",
+  "dutch_ship_large_02": "c0612d345014f54e097ca15b0e4d291549ee3348",
+  "dutch_ship_medium": "7a79ab7160d0290b23b54a966bc1b33f140bcf28",
+  "lateral_sea_marker": "162937f0d3a623b8446237e8a6c51b3717f5e32a",
+  "lifebuoy": "623799ae1de57723ec238ea1aac86b5b061fa92b",
+  "ocean_buoy": "59b96a90c88cd0f8f5f07577c1a133ae40908e3d",
+  "old_tyre": "8b7362724dd9d54081fe99703e32f434f75d1f0e",
+  "rusted_wheel_rim_01": "c6ea2791df5e76adddaff24df87f21144350cd3a",
+  "rusted_wheel_rim_02": "59c2b3a414b64b3b9963b8383855f8ba8cbb5552",
+  "ship_pinnace": "98d53486acdd9e5d17bdc7f81ff61f88954704a8"
+ },
  "license": "https://polyhaven.com/license",
  "site": "https://polyhaven.com",
  "source": "polyhaven",
